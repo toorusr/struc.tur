@@ -3,8 +3,8 @@
 > A simple script to easily create a lot of folders and quickly initialize a folder structure.
 
 ###### Status
-[![struct](https://img.shields.io/badge//struct-buggy-orange.svg)](https://github.com/toorusr/struc.tur/tree/master/struct)
-[![struc](https://img.shields.io/badge/README.md-complete-green.svg)](https://github.com/toorusr/struc.tur/tree/master/README.md)
+[![struct](https://img.shields.io/badge/struct-buggy-orange.svg)](https://github.com/toorusr/struc.tur/tree/master/struct)
+[![README.md](https://img.shields.io/badge/README.md-complete-green.svg)](https://github.com/toorusr/struc.tur/tree/master/README.md)
 
 ## Features
 - Create folder structures easily
